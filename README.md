@@ -60,4 +60,3 @@ Want to improve this project? Great! We encourage contribution to make this proj
 - GitHub: [uwttn](https://github.com/uwttn)
 - LinkedIn: [uwttn](https://www.linkedin.com/in/uwttn)
 - YouTube: [e-commerce demonstration](https://www.youtube.com/watch?v=8qXJz0RQ2d0&list=PLk8XMm2RW3E87aiavU5ivWAPg0ldUqFru&index=3)
-- Email: muchati@icloud.com
